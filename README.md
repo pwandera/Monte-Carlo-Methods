@@ -7,5 +7,4 @@ Procedures:
 -> A t-distribution is used to account for fat tails in financial markets using scipy and statsmodels  
 -> Price paths are drawn using log changes grabbed from the t-distribution with df = 5  
 -> Returns of each path are plotted to infer an expected value of longing the stock  
--> Visual plots are generated using seaborn and matplotlib methods
-![log_change_page-0001](https://github.com/user-attachments/assets/6ebdab05-164e-432b-9f9b-77f686a321cd)
+-> Visual plots are generated using seaborn and matplotlib methods  
