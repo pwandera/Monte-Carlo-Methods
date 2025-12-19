@@ -1,7 +1,7 @@
 # Monte-Carlo-Methods
 Generating future price movements of different stocks and their return distributions.
 
-Procedures:  
+### Procedures:  
 -> yfinance is used to import stock prices  
 -> The σ and μ Log Change of the stock price is captured using numpy  
 -> A t-distribution is used to account for fat tails in financial markets using scipy and statsmodels  
